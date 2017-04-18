@@ -1,6 +1,7 @@
 #################################
 # HideOverviewWhenClickOverview #
 #################################
-  This is a GNOME Shell Extension.
 
-  A click on an empty space in the overview hides the overview.
+This is a GNOME Shell Extension.
+
+Clicking on an empty space will now allow you to hide the overview.
