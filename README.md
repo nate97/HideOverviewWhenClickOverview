@@ -1,6 +1,6 @@
-#################################
-# HideOverviewWhenClickOverview #
-#################################
+# ############################### #
+#  HideOverviewWhenClickOverview  #
+# ############################### #
 
 This is a GNOME Shell Extension.
 
